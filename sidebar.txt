@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[aer:home|Door43 (aer)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aer|d43-aer repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aer/archive/master.zip|d43-aer.zip]]
+
+**Recent Changes**
+{{changes>ns = aer}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/aer|Ethnologue data]]
+
